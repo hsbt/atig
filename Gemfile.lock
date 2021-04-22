@@ -3,7 +3,7 @@ GEM
   specs:
     diff-lcs (1.1.2)
     json (1.5.1)
-    oauth (0.4.4)
+    oauth (0.5.5)
     rake (0.8.7)
     rspec (2.5.0)
       rspec-core (~> 2.5.0)
